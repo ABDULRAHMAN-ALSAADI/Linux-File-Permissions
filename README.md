@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     %% Styling
     classDef headerBox fill:#2563eb,stroke:#1d4ed8,stroke-width:2px,color:#ffffff,font-weight:bold
